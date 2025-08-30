@@ -285,4 +285,4 @@ http://localhost:9090
 http://localhost:3000/grafana
 ```
 
- Note: I have removed all the environment variables from this application if any developer intends to use please use your env variables.
+ Note: I have removed all the environment variables from this application if any developer intends to use this application please use your environment variables.
