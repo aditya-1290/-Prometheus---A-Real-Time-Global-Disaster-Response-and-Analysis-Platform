@@ -238,4 +238,4 @@ The Prometheus platform welcomes contributions from:
 
 *Prometheus: Transforming disaster response through real-time intelligence and AI-powered analysis.*
 
- Note: I have removed all the environment variables from this application if any developer intends to use this application please use your enviironment variables.
+ Note: I have removed all the environment variables from this application if any developer intends to use this application please use your environment variables.
